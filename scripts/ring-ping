@@ -14,7 +14,7 @@
 
 debug=0
 ping="ping"
-nodes=50
+nodes=5
 
 while getopts "6vhdn:" flag; do
     case $flag in
